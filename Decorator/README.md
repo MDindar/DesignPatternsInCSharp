@@ -8,11 +8,11 @@ Decorator is a structural pattern that allows adding new behaviors to objects dy
 
 ## UML 
 
-![Uml Diagram](/assets/Decorator.png)
+![Uml Diagram](https://raw.githubusercontent.com/MDindar/DesignPatterns/refs/heads/main/Decorator/assets/Decorator.png)
 
 
 ### Coffee UML 
-![Uml Diagram](/assets/Example.png)
+![Uml Diagram](https://raw.githubusercontent.com/MDindar/DesignPatterns/refs/heads/main/Decorator/assets/Example.png)
 
 
 ## Implementation for a coffee

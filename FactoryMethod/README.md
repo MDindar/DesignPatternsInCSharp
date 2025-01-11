@@ -23,7 +23,7 @@ Factory Method is a Pattern that provides an interface for creating objects in a
 3. INotificaiton
 4. SmsNotificaiton,EmailNotificaiton
 
-
+![Uml Diagram](https://raw.githubusercontent.com/MDindar/DesignPatterns/refs/heads/main/FactoryMethod/assets/FactoryMethod.png)
 ## Simple Factory Implementation:
 
 ```cs
@@ -83,7 +83,7 @@ interface IProduct;
 class ProductA: IProduct;
 class ProductB :IProduct;
 ```
-
+![Uml Diagram](https://raw.githubusercontent.com/MDindar/DesignPatterns/refs/heads/main/FactoryMethod/assets/image.png)
 ## Factory Method "Notification Example"
 ```cs
 

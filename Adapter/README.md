@@ -1,6 +1,6 @@
 # Adapter Design Pattern 
 
-![alt](/assets/Adapter.jpg)
+
 ## Definition : 
 
 Convert the interface of a class into another interface that clients expect.
@@ -13,6 +13,8 @@ In simple words , it make 2 interfaces compatible with one another
 1. Adaptee: Is a class that client want to consume , but it has a different interface (structure) that we are familiar with 
 2. Adapter: A class that implement the Target interface and and it implementation invoke Adaptee. this class used by client
 3. Target: Is an interface that client use it and Adapter implement it
+
+![Uml Diagram](https://raw.githubusercontent.com/MDindar/DesignPatterns/refs/heads/main/Adapter/assets/Adapter.png)
 
 ## When to use : 
 

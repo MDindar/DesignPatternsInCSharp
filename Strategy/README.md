@@ -12,7 +12,7 @@ Putting interchangeable logic behind an interface
 
 It will let an algorithm or logic (The Strategy) used by clients to achive something vary independently from the clients that use it.
 
-
+![Uml Diagram](https://raw.githubusercontent.com/MDindar/DesignPatterns/refs/heads/main/Strategy/assets/Strategy.png)
 ## Simple Implementation : 
 ```cs
 
