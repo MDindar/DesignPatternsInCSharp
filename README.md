@@ -7,10 +7,7 @@ Welcome to the Design Patterns in C# repository! This project serves as a compan
 - [Introduction to Design Patterns](#introduction-to-design-patterns)  
 - [Design Patterns Covered](#design-patterns-covered)  
 - [Design Patterns On the way](#design-patterns-on-the-way)  
-- [Folder Structure](#folder-structure)  
-- [Getting Started](#getting-started)  
-- [Contributing](#contributing)  
-- [License](#license)  
+ 
 
 ## Introduction to Design Patterns  
 
@@ -48,5 +45,3 @@ I aim to cover the design patterns that are most commonly used in daily developm
 - Visitor  
 
 Each folder corresponds to a specific design pattern and contains code examples along with explanations to help you understand how and when to use them.  
-
-## Folder Structure
