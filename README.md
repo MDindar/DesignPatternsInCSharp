@@ -30,7 +30,6 @@ I aim to cover the design patterns that are most commonly used in daily developm
 - Adapter  
 - Bridge  
 - Composite  
-- Façade  
 - Flyweight  
 - Proxy  
 - Chain of Responsibility  
@@ -43,5 +42,8 @@ I aim to cover the design patterns that are most commonly used in daily developm
 - State  
 - Template Method  
 - Visitor  
+
+## Not Covering 
+- Façade (Too easy)
 
 Each folder corresponds to a specific design pattern and contains code examples along with explanations to help you understand how and when to use them.  
