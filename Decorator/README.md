@@ -1,7 +1,5 @@
 # Decorator Design Pattern
 
-[![Decorator](https://img.youtube.com/vi/Z9x5BFfj3ek&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=1&pp=gAQBiAQB/0.jpg)](https://www.youtube.com/watch?v=Z9x5BFfj3ek&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=1&pp=gAQBiAQB)
-
 # Definition  
 Attach aditional responsibility to an object *dynamically*, Decorators provide flexible alternative to extending for functionality
 

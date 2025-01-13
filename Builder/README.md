@@ -1,5 +1,4 @@
 # Builder Design Pattern
-[![Builder](https://img.youtube.com/vi/https://www.youtube.com/watch?v=WRmFukIJf9g&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&pp=gAQBiAQB/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=WRmFukIJf9g&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&pp=gAQBiAQB)
 
 ## Intent
 

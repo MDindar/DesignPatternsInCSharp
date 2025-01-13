@@ -9,31 +9,18 @@ Welcome to the Design Patterns in C# repository! This project serves as a compan
 - [Design Patterns On the way](#design-patterns-on-the-way)  
  
 
- ![Play List](https://raw.githubusercontent.com/MDindar/DesignPatterns/refs/heads/main/image.png)
-
 ## Introduction to Design Patterns  
 
 Design patterns are proven solutions to common software design problems. They provide a standard terminology and are a way to communicate design ideas effectively. In this repository, we will explore various patterns commonly used in C# development.  
 
 ## Design Patterns Covered
 I aim to cover the design patterns that are most commonly used in daily development. In this repository, you’ll find examples of the following implemented design patterns
-
-[Singleton](https://github.com/MDindar/DesignPatterns/tree/main/singleton)
-
-[Factory Method](https://github.com/MDindar/DesignPatterns/tree/main/factorymethod)
-
-[Strategy](https://github.com/MDindar/DesignPatterns/tree/main/strategy)
-
-[Decorator](https://github.com/MDindar/DesignPatterns/tree/main/decorator)
-
-[adapter](https://github.com/MDindar/DesignPatterns/tree/main/adapter)
-
-[Observer](https://github.com/MDindar/DesignPatterns/tree/main/observer)
-
-[Builder](https://github.com/MDindar/DesignPatterns/tree/main/builder)
-
-
-
+| Video | Video |  
+|-------|-------|  
+| [![Singleton](https://img.youtube.com/vi/qXJRVktxCtA/0.jpg)](https://www.youtube.com/watch?v=qXJRVktxCtA&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=5&t=1156s&pp=gAQBiAQB) | [![Adapter](https://img.youtube.com/vi/LaCvrEsdwgA/0.jpg)](https://www.youtube.com/watch?v=LaCvrEsdwgA&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=3&t=36s&pp=gAQBiAQB) |  
+| [![Decorator](https://img.youtube.com/vi/Z9x5BFfj3ek/0.jpg)](https://www.youtube.com/watch?v=Z9x5BFfj3ek&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=1&pp=gAQBiAQB) | [![Factory Method](https://img.youtube.com/vi/IkdpnwCiwKA/0.jpg)](https://www.youtube.com/watch?v=IkdpnwCiwKA&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=4&t=15s&pp=gAQBiAQB) |  
+| [![Strategy](https://img.youtube.com/vi/1ky-BxfEmmg/0.jpg)](https://www.youtube.com/watch?v=1ky-BxfEmmg&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=2&t=21s&pp=gAQBiAQB) | [![Observer](https://img.youtube.com/vi/PrTTH2AYp7o/0.jpg)](https://www.youtube.com/watch?v=PrTTH2AYp7o&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=6&t=121s&pp=gAQBiAQB) |  
+| [![Builder](https://img.youtube.com/vi/WRmFukIJf9g/0.jpg)](https://www.youtube.com/watch?v=WRmFukIJf9g&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) | |  
 
 ## Design Patterns On the way  
 - Prototype  
