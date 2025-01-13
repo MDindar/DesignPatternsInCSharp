@@ -16,18 +16,19 @@ Design patterns are proven solutions to common software design problems. They pr
 ## Design Patterns Covered
 I aim to cover the design patterns that are most commonly used in daily development. In this repository, you’ll find examples of the following implemented design patterns
 
-- Singleton  
-- Factory Method
-- Strategy    
-- Abstract Factory  
-- Decorator
+[Singleton](https://github.com/MDindar/DesignPatterns/tree/main/singleton)
+[Factory Method](https://github.com/MDindar/DesignPatterns/tree/main/factorymethod)
+[Strategy](https://github.com/MDindar/DesignPatterns/tree/main/strategy)
+[Decorator](https://github.com/MDindar/DesignPatterns/tree/main/decorator)
+[adapter](https://github.com/MDindar/DesignPatterns/tree/main/adapter)
+[Observer](https://github.com/MDindar/DesignPatterns/tree/main/observer)
+[Builder](https://github.com/MDindar/DesignPatterns/tree/main/builder)
 
 
 
 ## Design Patterns On the way  
-- Builder  
 - Prototype  
-- Adapter  
+- Abstract Factory
 - Bridge  
 - Composite  
 - Flyweight  
@@ -38,7 +39,6 @@ I aim to cover the design patterns that are most commonly used in daily developm
 - Iterator  
 - Mediator  
 - Memento  
-- Observer  
 - State  
 - Template Method  
 - Visitor  

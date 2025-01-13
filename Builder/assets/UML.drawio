@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram id="bpbkTxAe3MsM5qXTKhsR" name="Page-1">
+        <mxGraphModel dx="1265" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="154" value="Builder Design Pattern" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=#C73500;fillColor=#fa6800;fontColor=#000000;fontSize=25;movable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="40" width="270" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="201" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Is used to separate the construction of a complex object from its representation, allowing the same construction process to create different representations&lt;/span&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+                    <mxGeometry x="420" y="25" width="590" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="360" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.dofactory.com/img/diagrams/net/builder.png;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="160" width="495.06" height="209" as="geometry"/>
+                </mxCell>
+                <mxCell id="361" value="client" style="html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="180" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="362" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;" parent="1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="150" y="190" as="sourcePoint"/>
+                        <mxPoint x="290" y="190" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="363" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1. Simple Builder&lt;br&gt;2. Fluent Builder&lt;br&gt;3. Nested Builder&lt;br&gt;4. Function Parameter Builder&lt;br&gt;5. Step Builder&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="830" y="200" width="260" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="364" value="&lt;div&gt;The Builder Pattern allows for step-by-step construction of a complex object. This is particularly useful when an object requires several parameters for initialization, many of which may be optional.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="410" width="600" height="70" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

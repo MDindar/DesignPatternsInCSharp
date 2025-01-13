@@ -18,6 +18,8 @@ When objects that ovserve others are not necessarily don't live for the total am
 2. Make sure do not update state while getting data from the subject (Cascade of update)
 3. performance ( make batch update)
 
+
+![Uml Diagram](https://raw.githubusercontent.com/MDindar/DesignPatterns/refs/heads/main/Observer/assets/image.png)
 ## Implementation
 
 ```cs
