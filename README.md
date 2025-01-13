@@ -9,6 +9,8 @@ Welcome to the Design Patterns in C# repository! This project serves as a compan
 - [Design Patterns On the way](#design-patterns-on-the-way)  
  
 
+ ![Play List](https://raw.githubusercontent.com/MDindar/DesignPatterns/refs/heads/main/image.png)
+
 ## Introduction to Design Patterns  
 
 Design patterns are proven solutions to common software design problems. They provide a standard terminology and are a way to communicate design ideas effectively. In this repository, we will explore various patterns commonly used in C# development.  
@@ -29,6 +31,7 @@ I aim to cover the design patterns that are most commonly used in daily developm
 [Observer](https://github.com/MDindar/DesignPatterns/tree/main/observer)
 
 [Builder](https://github.com/MDindar/DesignPatterns/tree/main/builder)
+
 
 
 
