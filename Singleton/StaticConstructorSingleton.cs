@@ -4,7 +4,7 @@
 /// </summary>
 sealed class StaticConstructorSingleton
 {
-    public static  string SomeProperty { get; set; }
+    public static string SomeProperty { get; set; }=string.Empty;
     public  static  StaticConstructorSingleton Instance => Nested.Instance;
     private StaticConstructorSingleton()
     {
