@@ -14,7 +14,7 @@ class Product
 {
     public string Title { get;private set; } = string.Empty;
     public string Description { get; private set; } = string.Empty;
-    public Item Item { get; private set; }
+    public Item Item { get; private set; }=default!;
     
     private Product(){}
     public class Builder : IItemStep,ITitleStep,IDescriptionStep

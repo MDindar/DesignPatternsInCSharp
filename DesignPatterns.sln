@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.csproj", "{7646D4C8-DBF2-4EEB-A4E2-D3044656CC7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{7F3BD2D8-2780-47F2-B094-C975E2B362FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{7646D4C8-DBF2-4EEB-A4E2-D3044656CC7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7646D4C8-DBF2-4EEB-A4E2-D3044656CC7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7646D4C8-DBF2-4EEB-A4E2-D3044656CC7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F3BD2D8-2780-47F2-B094-C975E2B362FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3BD2D8-2780-47F2-B094-C975E2B362FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3BD2D8-2780-47F2-B094-C975E2B362FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3BD2D8-2780-47F2-B094-C975E2B362FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
