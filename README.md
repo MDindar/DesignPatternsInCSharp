@@ -30,8 +30,6 @@ I aim to cover the design patterns that are most commonly used in daily developm
 - Interpreter
 - Iterator
 - Mediator
-- Memento
-- State
 - Visitor
 
 ## Not Covering
