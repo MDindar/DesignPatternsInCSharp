@@ -18,7 +18,7 @@ I aim to cover the design patterns that are most commonly used in daily developm
 | [![Builder](https://img.youtube.com/vi/WRmFukIJf9g/0.jpg)](https://www.youtube.com/watch?v=WRmFukIJf9g&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) | [![Proxy](https://img.youtube.com/vi/Z8GEtW5xt00/0.jpg)](https://www.youtube.com/watch?v=Z8GEtW5xt00&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=3&t=36s&pp=gAQBiAQB) |
 | [![Template Method](https://img.youtube.com/vi/riUJR1MK_2U/0.jpg)](https://www.youtube.com/watch?v=riUJR1MK_2U&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) | [![Command](https://img.youtube.com/vi/uS_Lx5_a3po/0.jpg)](https://www.youtube.com/watch?v=uS_Lx5_a3po&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) |
 | [![Chain Of Responsibility](https://img.youtube.com/vi/jdIVMxdVBSc/0.jpg)](https://www.youtube.com/watch?v=jdIVMxdVBSc&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) | [![State](https://img.youtube.com/vi/F4HLe4q3dDM/0.jpg)](https://www.youtube.com/watch?v=F4HLe4q3dDM&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) |
-| [![Memento](https://img.youtube.com/vi/HOwwmURCOTE/0.jpg)](https://www.youtube.com/watch?v=HOwwmURCOTE&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) | . |
+| [![Memento](https://img.youtube.com/vi/HOwwmURCOTE/0.jpg)](https://www.youtube.com/watch?v=HOwwmURCOTE&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) | [![Iterator](https://img.youtube.com/vi/jxd_srZL8tA/0.jpg)](https://www.youtube.com/watch?v=jxd_srZL8tA&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) |
 
 ## Design Patterns On the way
 
@@ -28,7 +28,6 @@ I aim to cover the design patterns that are most commonly used in daily developm
 - Composite
 - Flyweight
 - Interpreter
-- Iterator
 - Mediator
 - Visitor
 
