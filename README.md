@@ -19,10 +19,10 @@ I aim to cover the design patterns that are most commonly used in daily developm
 | [![Template Method](https://img.youtube.com/vi/riUJR1MK_2U/0.jpg)](https://www.youtube.com/watch?v=riUJR1MK_2U&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) | [![Command](https://img.youtube.com/vi/uS_Lx5_a3po/0.jpg)](https://www.youtube.com/watch?v=uS_Lx5_a3po&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) |
 | [![Chain Of Responsibility](https://img.youtube.com/vi/jdIVMxdVBSc/0.jpg)](https://www.youtube.com/watch?v=jdIVMxdVBSc&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) | [![State](https://img.youtube.com/vi/F4HLe4q3dDM/0.jpg)](https://www.youtube.com/watch?v=F4HLe4q3dDM&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) |
 | [![Memento](https://img.youtube.com/vi/HOwwmURCOTE/0.jpg)](https://www.youtube.com/watch?v=HOwwmURCOTE&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) | [![Iterator](https://img.youtube.com/vi/jxd_srZL8tA/0.jpg)](https://www.youtube.com/watch?v=jxd_srZL8tA&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) |
+| [![Prototype](https://img.youtube.com/vi/q1Ad-3ELEoY/0.jpg)](https://www.youtube.com/watch?v=q1Ad-3ELEoY&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) | . |
 
 ## Design Patterns On the way
 
-- Prototype
 - Abstract Factory
 - Bridge
 - Composite
