@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="_HEVaraudv8ih_Dnupxr" name="Page-1">
-        <mxGraphModel dx="1078" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+        <mxGraphModel dx="1422" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -13,10 +13,10 @@
                 <mxCell id="21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Simple Factory Pattern&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=#BD7000;fillColor=#f0a30a;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fontColor=#000000;container=0;" parent="1" vertex="1">
                     <mxGeometry x="30" y="20" width="370" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="31" value="&lt;span style=&quot;font-family: D-DINExp, &amp;quot;DM Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;A pattern that provides a way to create objects without specifying the exact class of the object that will be created.&lt;br&gt;&amp;nbsp;It is often used to encapsulate object creation in a single class, making it easier to manage and modify.&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                <mxCell id="31" value="&lt;span style=&quot;font-family: D-DINExp, &amp;quot;DM Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;A pattern that provides a way to create objects without specifying the exact class of the object that will be created.&lt;br&gt;&amp;nbsp;It is often used to encapsulate object creation in a single class, making it easier to manage and modify.&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="40" y="60" width="730" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" value="" style="group" vertex="1" connectable="0" parent="1">
+                <mxCell id="32" value="" style="group" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="40" y="160" width="800" height="260" as="geometry"/>
                 </mxCell>
                 <mxCell id="4" value="&lt;&lt;interface&gt;&gt;&#10;IProduct" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;container=0;" parent="32" vertex="1">
@@ -80,7 +80,7 @@
                 <mxCell id="30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#66b2ff&quot;&gt;SimpleFactory factory = new SimpleFactory();&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#80ff00&quot;&gt;IProduct p&lt;/font&gt; =&lt;font color=&quot;#66b2ff&quot;&gt; factory.CreateProduct(&quot;A&quot;);&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="32" vertex="1">
                     <mxGeometry x="10" y="135" width="310" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="33" value="" style="group" vertex="1" connectable="0" parent="1">
+                <mxCell id="33" value="" style="group" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="70" y="560" width="510" height="86" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" value="Client" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;container=0;" parent="33" vertex="1">
