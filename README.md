@@ -2,9 +2,9 @@
 
 Welcome to the Design Patterns in C# repository! This project serves as a companion to my [YouTube channel](https://www.youtube.com/@mostafa_dindar) where I explore various design patterns in C#. In this repository, you'll find sample code and explanations for each pattern covered in the videos.
 
-[![Design Pattern PlayList](https://raw.githubusercontent.com/MDindar/DesignPatterns/refs/heads/main/Visitor/assets/PlayListCover.jpg)](https://www.youtube.com/playlist?list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b)
-
-
+<a href="https://www.youtube.com/playlist?list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b" target="_blank">
+    <img src="https://raw.githubusercontent.com/MDindar/DesignPatterns/refs/heads/main/Visitor/assets/PlaylistCover.jpg" alt="Design Pattern PlayList" style="width:100%; max-width:600px;">
+</a>
 
 ## Table of Contents
 
