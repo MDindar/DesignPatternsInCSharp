@@ -2,10 +2,15 @@
 
 Welcome to the Design Patterns in C# repository! This project serves as a companion to my [YouTube channel](https://www.youtube.com/@mostafa_dindar) where I explore various design patterns in C#. In this repository, you'll find sample code and explanations for each pattern covered in the videos.
 
+[![Design Pattern PlayList](https://raw.githubusercontent.com/MDindar/DesignPatterns/refs/heads/main/Visitor/assets/PlayListCover.jpg)](https://www.youtube.com/playlist?list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b)
+
+
+
 ## Table of Contents
 
 - [Design Patterns Covered](#design-patterns-covered)
 - [Design Patterns On the way](#design-patterns-on-the-way)
+- [Design Patterns Not Covering](#not-covering)
 
 ## Design Patterns Covered
 
@@ -22,16 +27,14 @@ I aim to cover the design patterns that are most commonly used in daily developm
 | [![Prototype](https://img.youtube.com/vi/q1Ad-3ELEoY/0.jpg)](https://www.youtube.com/watch?v=q1Ad-3ELEoY&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) | [![Composite](https://img.youtube.com/vi/sZEV_tsjT9o/0.jpg)](https://www.youtube.com/watch?v=sZEV_tsjT9olist=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) |
 | [![Abstract Factory](https://img.youtube.com/vi/zgOpxfnZ4EA/0.jpg)](https://www.youtube.com/watch?v=zgOpxfnZ4EA&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) | [![Flyweight](https://img.youtube.com/vi/3zOfuV8t9mg/0.jpg)](https://www.youtube.com/watch?v=3zOfuV8t9mg&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) |
 | [![Visitor](https://img.youtube.com/vi/yKjH1qFsCLg/0.jpg)](https://www.youtube.com/watch?v=yKjH1qFsCLg&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) | [![Mediator](https://img.youtube.com/vi/j3rMdeeP75Q/0.jpg)](https://www.youtube.com/watch?v=j3rMdeeP75Q&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) |
+| [![Bridge](https://img.youtube.com/vi/Y8tBTMZHTW8/0.jpg)](https://www.youtube.com/watch?v=Y8tBTMZHTW8&list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b&index=7&t=1652s&pp=gAQBiAQB) | . |
 
 ## Design Patterns On the way
-
-- Bridge
-
 
 
 ## Not Covering
 
 - Façade (Too easy)
-- Interpreter( Rarely Used)
+- Interpreter(Rarely Used)
 
 Each folder corresponds to a specific design pattern and contains code examples along with explanations to help you understand how and when to use them.
